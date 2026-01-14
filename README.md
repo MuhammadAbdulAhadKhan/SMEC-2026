@@ -47,12 +47,8 @@ The app shows air quality results based on API response, such as:
 
 ## 🎥 App Demo Video
 
-📹 **Demo Video:**
-
-```
 <a href="https://github.com/user-attachments/assets/51d108c9-b463-4ec6-b6fd-939bc2fcb41f">Click Here To Watch Demo</a>
 
-```
 
 
 ---
@@ -61,3 +57,5 @@ The app shows air quality results based on API response, such as:
 
 **Muhammad Abdul Ahad Khan**
 Flutter Developer
+
+---
