@@ -1,5 +1,16 @@
 # Review All 3 App's Here :)
-# 01. 🌍 Air Detector – Flutter App
+
+---
+
+
+## 01. 🎥 Air Detector App Demo Video
+
+<a href="https://github.com/user-attachments/assets/51d108c9-b463-4ec6-b6fd-939bc2fcb41f">Click Here To Watch Demo</a>
+
+---
+
+
+# 🌍 Air Detector – Flutter App
 
 A **one‑page Flutter application** that detects and displays **air pollution levels** based on the user’s current location using a public Air Quality API.
 
@@ -42,20 +53,17 @@ The app shows air quality results based on API response, such as:
 
 > Values and categories (Good, Moderate, Poor, etc.) are derived directly from the API response.
 
----
-
-
-## 🎥 Air Detector App Demo Video
-
-<a href="https://github.com/user-attachments/assets/51d108c9-b463-4ec6-b6fd-939bc2fcb41f">Click Here To Watch Demo</a>
-
-
-
-
 
 ---
 
-# 02. 🛒A'one Price Comparison Flutter App
+### 02. 🎬 A'one Price Comparison Flutter App Demo Video
+
+
+<a href="https://github.com/user-attachments/assets/a129f787-6f08-4676-bb06-055ede3ec450" >Click Here To Watch Demo</a>
+
+---
+
+# 🛒A'one Price Comparison Flutter App
 
 --- 
 
@@ -82,17 +90,19 @@ This app helps users make better purchasing decisions by quickly identifying the
 * 📱 **Single Page Application**
 
   * Simple, clean, and user-friendly UI.
+  
 
+---
 
-### 🎬 A'one Price Comparison Flutter App Demo Video
+## 03. 💰 Mr. Finance – Smart Expense Tracking App Demo Video 🎬
 
-
-<a href="https://github.com/user-attachments/assets/a129f787-6f08-4676-bb06-055ede3ec450" >Click Here To Watch Demo</a>
+<a href="https://github.com/user-attachments/assets/d2da056d-6b53-4362-8572-a6857375e967"> Click Here To Watch Demo </a>
 
 
 ---
 
-# 03. 💰 Mr. Finance – Smart Expense Tracking App
+
+# 💰 Mr. Finance – Smart Expense Tracking App
 
 --- 
 **Mr. Finance** is a Flutter-based financial management application that scans **receipt images** and converts them into **meaningful financial insights**.
@@ -131,13 +141,6 @@ The system leverages **OCR and data extraction techniques** to read receipt data
 3. Expense data is processed and categorized.
 4. Monthly summaries and analytics are generated.
 5. Visual reports and alerts are displayed to the user.
-
----
-
-## 💰 Mr. Finance – Smart Expense Tracking App Demo Video 🎬
-
-<a href="https://github.com/user-attachments/assets/d2da056d-6b53-4362-8572-a6857375e967"> Click Here To Watch Demo </a>
-
 
 ---
 
